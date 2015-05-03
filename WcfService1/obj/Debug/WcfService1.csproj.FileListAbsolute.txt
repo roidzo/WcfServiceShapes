@@ -1,0 +1,16 @@
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Autofac.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Autofac.Integration.Wcf.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.FullNetFx.dll
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Autofac.xml
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Autofac.Integration.Wcf.xml
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.pdb
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.xml
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.FullNetFx.pdb
+c:\users\dre\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Serilog.FullNetFx.xml

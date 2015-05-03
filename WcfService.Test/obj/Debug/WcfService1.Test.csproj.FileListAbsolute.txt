@@ -1,0 +1,17 @@
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\obj\Debug\WcfService1.Test.csprojResolveAssemblyReference.cache
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\obj\Debug\WcfService.Test.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\WcfService.Test.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\WcfService.Test.pdb
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Moq.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.FullNetFx.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\WcfService1.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Autofac.dll
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\WcfService1.pdb
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Moq.xml
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.pdb
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.xml
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.FullNetFx.pdb
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Serilog.FullNetFx.xml
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\bin\Debug\Autofac.xml
+C:\Users\Dre\Documents\Visual Studio 2013\Projects\WcfService1\WcfService.Test\obj\Debug\WcfService.Test.pdb
